@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Meo-ux
-- 👀 I’m interested in AR
-- 🌱 I’m currently learning AR
-- 💞️ I’m looking to collaborate on AR fitness based interface
 - 📫 How to reach me miladh2109@gmail.com
 
 <!---
